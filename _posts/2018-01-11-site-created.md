@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Garrett Griffith, Digital Publishing Expert, launches site"
+title: "NAME, Digital Publishing Expert, launches site"
 date: 2018-01-11
 ---
 
